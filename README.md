@@ -30,6 +30,7 @@ plugins=(
 ### myplugins
 
 https://github.com/naoya0117/zsh-myplugins
+huga
 
 ## nvim
 
